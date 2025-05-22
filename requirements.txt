@@ -1,0 +1,11 @@
+Python 3.7 or above
+
+Streamlit
+
+youtube-transcript-api
+
+transformers
+
+torch or tensorflow (for model backend)
+
+python-dotenv (for environment variable management)
